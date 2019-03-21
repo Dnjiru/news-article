@@ -1,0 +1,14 @@
+h2.introduction {
+    color: brown;
+
+}
+img.introduction {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p.introduction {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: wheat;
+    text-align: center;
+}
